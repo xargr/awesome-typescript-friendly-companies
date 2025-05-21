@@ -1,4 +1,4 @@
-# Awesome TypeScript Companies [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome TypeScript Friendly Companies [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 😎 A curated list of companies that use TypeScript — perfect for job seekers, open source contributors, or anyone exploring TypeScript-friendly teams.
 
