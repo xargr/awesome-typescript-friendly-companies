@@ -13,7 +13,7 @@ Looking for active TypeScript jobs? Check out our live board at [typescript.jobs
   - [🇺🇸 United States](#united-states)
   - [🇩🇪 Germany](#germany)
   - [🇬🇧 United Kingdom](#united-kingdom)
-- [By Industry](#by-industry)
+  - [🇱🇹 Lithuania](##lithuania)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -45,21 +45,9 @@ Looking for active TypeScript jobs? Check out our live board at [typescript.jobs
 
 ---
 
-## 🏭 By Industry
+## 🇱🇹 Lithuania
 
-### 🏦 Fintech
-- **Stripe** – USA
-- **Wise** – UK
-- **Raisin** – Germany
-
-### 🛍 E-Commerce
-- **Zalando** – EU-wide
-- **Shopify** – Canada, Remote
-
-### 💻 Dev Tools
-- **Vercel**
-- **Supabase**
-- **Sentry**
+-- **Planner 5D** – AI-powered home and interior design platform offering 2D/3D tools for professionals and homeowners. [Website](https://planner5d.com/) | [Jobs](https://jobs.lever.co/planner5d)
 
 ---
 
