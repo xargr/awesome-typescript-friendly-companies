@@ -8,9 +8,9 @@ Looking for active TypeScript jobs? Check out our live board at [typescript.jobs
 
 ## Table of Contents
 
-- [Remote-Friendly](#remote-friendly)
+<!-- - [Remote-Friendly](#remote-friendly) -->
 - [By Country](#by-country)
-  - [🇺🇸 United States](#united-states)
+  <!-- - [🇺🇸 United States](#united-states) -->
   - [🇩🇪 Germany](#germany)
   - [🇬🇧 United Kingdom](#united-kingdom)
   - [🇱🇹 Lithuania](##lithuania)
@@ -19,35 +19,35 @@ Looking for active TypeScript jobs? Check out our live board at [typescript.jobs
 
 ---
 
-## 🌍 Remote-Friendly
+<!-- ## 🌍 Remote-Friendly
 
 - **Vercel** – Frontend hosting platform, uses TypeScript across the stack. [Careers](https://vercel.com/careers)
 - **Supabase** – Open-source Firebase alternative. TypeScript from top to bottom. [Website](https://supabase.com)
 
----
+--- -->
 
-## 🇺🇸 United States
+<!-- ## 🇺🇸 United States
 
 - **Stripe** – Fintech giant, TypeScript used heavily in frontend/backend. [Jobs](https://stripe.com/jobs)
-- **Turborepo (by Vercel)** – Monorepo build tool, written in TypeScript. [GitHub](https://github.com/vercel/turbo)
+- **Turborepo (by Vercel)** – Monorepo build tool, written in TypeScript. [GitHub](https://github.com/vercel/turbo) -->
 
 ---
 
 ## 🇩🇪 Germany
 
-- **Personio** – HR software, actively hiring TS devs. [Careers](https://www.personio.com/careers)
+- **Mistral Ai** – AI startup specializing in open-source and efficient large language models (LLMs). [Jobs](https://jobs.lever.co/mistral)
 
 ---
 
 ## 🇬🇧 United Kingdom
 
-- **Monzo** – Neobank with TypeScript-first frontends. [Jobs](https://monzo.com/careers)
+- **Dealerkit** – Dealer Management System (DMS). [Jobs](https://dealerkit.notion.site/ebd/1e20535d9ce0802e8f07f4a962201d0d)
 
 ---
 
 ## 🇱🇹 Lithuania
 
-- **Planner 5D** – AI-powered home and interior design platform offering 2D/3D tools for professionals and homeowners. [Website](https://planner5d.com/) | [Jobs](https://jobs.lever.co/planner5d)
+- **Planner 5D** – AI-powered home and interior design platform offering 2D/3D tools for professionals and homeowners. [Jobs](https://jobs.lever.co/planner5d)
 
 ---
 
