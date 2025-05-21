@@ -47,7 +47,7 @@ Looking for active TypeScript jobs? Check out our live board at [typescript.jobs
 
 ## 🇱🇹 Lithuania
 
--- **Planner 5D** – AI-powered home and interior design platform offering 2D/3D tools for professionals and homeowners. [Website](https://planner5d.com/) | [Jobs](https://jobs.lever.co/planner5d)
+- **Planner 5D** – AI-powered home and interior design platform offering 2D/3D tools for professionals and homeowners. [Website](https://planner5d.com/) | [Jobs](https://jobs.lever.co/planner5d)
 
 ---
 
