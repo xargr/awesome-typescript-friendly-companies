@@ -36,6 +36,7 @@ Looking for active TypeScript jobs? Check out our live board at [typescript.jobs
 ## 🇩🇪 Germany
 
 - **Mistral Ai** – AI startup specializing in open-source and efficient large language models (LLMs). [Jobs](https://jobs.lever.co/mistral)
+- **Nelly** – Nelly Solutions is a Berlin-based healthtech company that streamlines administrative and payment processes for medical practices. [Jobs](https://jobs.lever.co/nelly)
 
 ---
 
